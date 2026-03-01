@@ -79,6 +79,7 @@ The site becomes mobile-friendly when screen width is **768px or less**:
 
 **Arup Ratan Dey**
 CSE Student – Metropolitan University, Sylhet
+
 ---
 
 ## Future Improvements
@@ -88,3 +89,4 @@ CSE Student – Metropolitan University, Sylhet
 * Add animations and transitions
 * Connect forms to backend
 * Add contact page
+

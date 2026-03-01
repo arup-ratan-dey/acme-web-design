@@ -79,8 +79,6 @@ The site becomes mobile-friendly when screen width is **768px or less**:
 
 **Arup Ratan Dey**
 CSE Student – Metropolitan University, Sylhet
-Competitive Programmer & Java Developer
-
 ---
 
 ## Future Improvements
